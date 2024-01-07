@@ -9,7 +9,7 @@ from aiogram.filters import CommandStart
 from aiogram.types import Message
 from aiogram.utils.markdown import hbold
 
-from background import keep_alive
+from loader import keep_alive
 # Bot token can be obtained via https://t.me/BotFather
 TOKEN = '1397468280:AAFjxKTcQATPDqPNpuj6UdYzkO5O4YpP4DM'
 
